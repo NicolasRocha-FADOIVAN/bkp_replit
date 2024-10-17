@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+  font-family: Arial;
+}
+
+.container {
+  background-color: #8f8f8f;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
+
+.cor {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.caixa {}
