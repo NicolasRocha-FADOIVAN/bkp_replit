@@ -1,1 +1,1 @@
-Dissolvi o "Revisão2Tri_2ºDSC" em três pastas "VARI"
+Dissolvi o "Revisão2Tri_2ºDSC" em três pastas "VARIAVEIS"; "FORMULARIOS"; "Mobike_JS"
