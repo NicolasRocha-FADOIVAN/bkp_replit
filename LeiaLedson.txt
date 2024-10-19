@@ -1,1 +1,3 @@
-Dissolvi o "Revisão2Tri_2ºDSC" em três pastas "VARIAVEIS"; "FORMULARIOS"; "Mobike_JS"
+Dissolvi a pasta "Revisão2Tri_2ºDSC" em outras três pastas "VARIAVEIS"; "FORMULARIOS"; "Mobike_JS".
+
+Não possuo a pasta "Trabalho Ledson" pois fiz em dupla com 
